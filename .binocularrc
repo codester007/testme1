@@ -1,0 +1,17 @@
+{
+  "github": { 
+    "auth": { 
+      "token": "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"
+      }
+    },
+  "arango": {
+    "host": "127.0.0.1",
+    "port": 8529,
+    "user": "root",
+    "password": "openSesame"
+  },
+  "indexers": {
+    "its": "github",
+    "ci": "travis" 
+  }
+}
